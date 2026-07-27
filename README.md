@@ -124,6 +124,8 @@ MIT License - 详见 [LICENSE](LICENSE) 文件
 
 灵感来源于 Swiftful Thinking 教程，感谢开源社区。
 
----
+<img width="295" height="640" alt="Simulator Screen Recording - iPhone 17 Pro - 2026-07-27 at 15 55 03" src="https://github.com/user-attachments/assets/6c1d1a9b-bfcb-4d00-a6f8-228894028d9b" />
+<img width="295" height="640" alt="Simulator Screen Recording - iPhone 17 Pro - 2026-07-27 at 15 54 10" src="https://github.com/user-attachments/assets/d557540e-7fb7-4524-b9f4-21f9e4542e35" />
+
 
 ⭐️ 如果这个项目对您有帮助，欢迎给一颗星！
