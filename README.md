@@ -128,13 +128,14 @@ MIT License - 详见 [LICENSE](LICENSE) 文件
 ## 🙏 致谢
 
 灵感来源于 Swiftful Thinking 教程，感谢开源社区。
+⭐️ 如果这个项目对您有帮助，欢迎给一颗星！
 
 🎬 APP 动态操作演示 GIF
 <p align="center">
-  <img width="320" alt="APP操作演示动图" src="https://github.com/user-attachments/assets/c240def8-1f04-4858-a390-28e4ff56d5b3" />
-  &nbsp;&nbsp;
-  <img width="320" alt="APP操作演示动图" src="https://github.com/user-attachments/assets/893a5cba-c4bb-4f0c-8d14-15edc446f78f"/>
+<img width="295" height="640" alt="2" src="https://github.com/user-attachments/assets/40865466-a499-4244-be31-523bad98a159" />
+
 </p>
 
 
-⭐️ 如果这个项目对您有帮助，欢迎给一颗星！
+
+
