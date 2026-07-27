@@ -132,10 +132,7 @@ MIT License - 详见 [LICENSE](LICENSE) 文件
 🎬 APP 动态操作演示 GIF
 <p align="center">
 <img width="320" alt="APP操作演示动图" src="<img width="295" height="640" alt="Simulator Screen Recording - iPhone 17 Pro - 2026-07-27 at 15 54 10" src="https://github.com/user-attachments/assets/c240def8-1f04-4858-a390-28e4ff56d5b3" />
-">
-<img width="320" alt="APP操作演示动图" src="<img width="295" height="640" alt="<img width="295" height="640" alt="Simulator Screen Recording - iPhone 17 Pro - 2026-07-27 at 15 55 03" src="https://github.com/user-attachments/assets/893a5cba-c4bb-4f0c-8d14-15edc446f78f" />
-" />
-">
+<img width="320" alt="APP操作演示动图" src="https://github.com/user-attachments/assets/893a5cba-c4bb-4f0c-8d14-15edc446f78f"/>
 </p>
 
 
