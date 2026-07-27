@@ -1,7 +1,12 @@
 # LWWeb3iOS 🚀
 
 一个基于 SwiftUI 开发的 iOS 加密货币行情应用，支持实时数据查看与投资组合管理。
-
+<p align="center">
+  <img src="https://img.shields.io/badge/iOS-15.0+-blue" />
+  <img src="https://img.shields.io/badge/Xcode-14.0+-orange" />
+  <img src="https://img.shields.io/badge/Swift-5.7-red" />
+  <img src="https://img.shields.io/badge/MIT-License-green" />
+</p>
 ## ✨ 功能特性
 
 - **📈 实时行情** - 获取最新加密货币价格数据
@@ -124,8 +129,14 @@ MIT License - 详见 [LICENSE](LICENSE) 文件
 
 灵感来源于 Swiftful Thinking 教程，感谢开源社区。
 
-<img width="295" height="640" alt="Simulator Screen Recording - iPhone 17 Pro - 2026-07-27 at 15 55 03" src="https://github.com/user-attachments/assets/6c1d1a9b-bfcb-4d00-a6f8-228894028d9b" />
-<img width="295" height="640" alt="Simulator Screen Recording - iPhone 17 Pro - 2026-07-27 at 15 54 10" src="https://github.com/user-attachments/assets/d557540e-7fb7-4524-b9f4-21f9e4542e35" />
+🎬 APP 动态操作演示 GIF
+<p align="center">
+<img width="320" alt="APP操作演示动图" src="<img width="295" height="640" alt="Simulator Screen Recording - iPhone 17 Pro - 2026-07-27 at 15 54 10" src="https://github.com/user-attachments/assets/c240def8-1f04-4858-a390-28e4ff56d5b3" />
+">
+<img width="320" alt="APP操作演示动图" src="<img width="295" height="640" alt="<img width="295" height="640" alt="Simulator Screen Recording - iPhone 17 Pro - 2026-07-27 at 15 55 03" src="https://github.com/user-attachments/assets/893a5cba-c4bb-4f0c-8d14-15edc446f78f" />
+" />
+">
+</p>
 
 
 ⭐️ 如果这个项目对您有帮助，欢迎给一颗星！
