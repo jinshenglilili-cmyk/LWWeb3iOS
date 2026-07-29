@@ -132,11 +132,10 @@ MIT License - 详见 [LICENSE](LICENSE) 文件
 
 🎬 APP 动态操作演示 GIF
 <p align="center">
-<img width="150" height="320" alt="2" src="https://github.com/user-attachments/assets/40865466-a499-4244-be31-523bad98a159" />
+<img width="150" height="320" alt="1 (1)" src="https://github.com/user-attachments/assets/201d6bb3-ae0c-46e5-9404-f434519b949e" />
+<img width="150" height="320" alt="2" src="https://github.com/user-attachments/assets/8f2c8be4-f7f4-4fe3-b4a0-99180c47e3e8" />
 </p>
-<p align="center">
-<img width="150" height="320" alt="1" src="https://github.com/user-attachments/assets/e80f32b8-061d-4bd3-a244-f9698b0dc17e" />
-</p>
+
 
 
 
